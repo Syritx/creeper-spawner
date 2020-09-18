@@ -1,0 +1,10 @@
+name: CreeperSpawn
+version: 1.0
+author: Syritx
+main: CommandsLib.Main
+description: spawns creepers
+
+commands:
+  sCreeper:
+    aliases: [spawnCreeperInit]
+    description: /spawnCreeperInit to spawn creepers
