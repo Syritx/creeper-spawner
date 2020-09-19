@@ -1,2 +1,2 @@
-# creeper-spawner
-a custom minecraft plugin that can spawn creepers non-stop
+# tnt-spawner
+a custom minecraft plugin that can spawn tnt
